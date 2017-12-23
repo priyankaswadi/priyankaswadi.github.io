@@ -6,8 +6,8 @@ Hello friend, welcome to my home on GitHub. I am an a web developer learning the
 Feel free to browse and send any inquiries in the email address listed in my resume.
 
 # [](#header-1)Projects
-## [](#header-2)Udacity Data Analysis Nanodegree [https://www.udacity.com/course/data-analyst-nanodegree--nd002](link)
-1. [Udacity-DAND-Projects\Exploring_Survival_on_the_Titanic.html] (Exploring survival on the Titanic).
-2. [Udacity-DAND-Projects\OpenStreetMap_Data_Wrangling.html] (OpenStreetMap data wrangling of Schenectady county, NY).
-3. [Udacity-DAND-Projects\Presidential_Campaign_2016_PA.html] (Analysis of contribution to 2016 US presidential campaign in state of Pennsylvania.).
+## [](#header-2)Udacity Data Analysis Nanodegree [link](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+1. [Exploring survival on the Titanic.](Udacity-DAND-Projects\Exploring_Survival_on_the_Titanic.html)
+2. [OpenStreetMap data wrangling of Schenectady county, NY.](Udacity-DAND-Projects\OpenStreetMap_Data_Wrangling.html)
+3. [Contribution to 2016 US presidential campaign in state of Pennsylvania.](Udacity-DAND-Projects\Presidential_Campaign_2016_PA.html)
 
