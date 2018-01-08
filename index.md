@@ -5,7 +5,7 @@ layout: default
 Hello world, welcome!
 
 Below are links to my current and past projects.
-Feel free to browse and send any inquiries in the email address listed in my resume.
+Feel free to browse and send any inquiries in the email address listed in my [resume](priyanka_swadi.pdf).
 
 # [](#header-1)Projects
 ## [](#header-4)Udacity Data Analysis [Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
